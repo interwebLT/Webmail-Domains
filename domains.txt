@@ -6,6 +6,7 @@
 2trom.com
 4email.net
 50mail.com
+9mail.org
 aapt.net.au
 accountant.com
 acdcfan.com
@@ -242,6 +243,7 @@ msn.com
 munich.com
 musician.org
 muslim.com
+mybox.xyz
 myfastmail.com
 mymacmail.com
 myself.com
@@ -329,6 +331,7 @@ surgical.net
 swedenmail.com
 swift-mail.com
 swissmail.com
+sync.xyz
 teachers.org
 tech-center.com
 techie.com
@@ -340,6 +343,17 @@ the-quickest.com
 theinternetemail.com
 theplate.com
 therapist.net
+thexyz.net
+thexyz.ca
+thexyz.cn
+thexyz.es
+thexyz.fr
+thexyz.in
+thexyz.uk
+thexyz.co.uk
+thexyz.org
+thexyz.mobi
+thexyz.info
 toke.com
 toothfairy.com
 torontomail.com
@@ -354,6 +368,12 @@ veryspeedy.net
 virginbroadband.com.au
 warpmail.net
 webname.com
+webmail.wiki
+webmail.fish
+webmail.lawyer
+webmail.gb.net
+webmail.blue
+webmail.army
 westnet.com.au
 windowslive.com
 worker.com
@@ -361,6 +381,7 @@ workmail.com
 writeme.com
 xsmail.com
 xtra.co.nz
+xyz.am
 y7mail.com
 yahoo.ae
 yahoo.at
@@ -413,4 +434,6 @@ yandex.ru
 yepmail.net
 ymail.com
 your-mail.com
+z9mail.com
+zooglemail.com
 zoho.com
